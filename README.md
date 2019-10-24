@@ -1,2 +1,1 @@
-# GitPractic
-e
+# GitPractice
